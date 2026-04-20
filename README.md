@@ -1,8 +1,8 @@
 # JSON Alexander
 
-![JSON Alexander](icons/JSON-Alexander.png)
+Believe it or not, George formats JSON. [Download for Chrome](https://chromewebstore.google.com/detail/json-alexander/aegihabihhhoihnomlekgheekcdcifpk) or download + install yourself.
 
-Believe it or not, George formats JSON.
+![JSON Alexander](icons/JSON-Alexander.png)
 
 ![Preview Chrome](src/preview-chrome.png)
 
